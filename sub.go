@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Print(sub(2, 3))
+	fmt.Print(sub(12, 112))
 }
 
 func sub(a, b int) int {
